@@ -1,0 +1,77 @@
+body
+{
+	background-image: url("mathquizimg.jpg");
+	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(240, 227, 209);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+	
+}
+#h3_id1
+{
+	color:rgb(0, 0, 0);
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+#h4_id1
+{
+	color:rgb(0, 0, 0);
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+#h4_id2
+{
+	color:rgb(0, 0, 0);
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+#output
+{
+background: rgb(235, 182, 133);
+border-radius: 10px;
+border-top: 10px solid #85c9c9;
+padding: 10px;
+float: none;
+text-align: center;
+}
+
+#turn
+{
+background: rgb(235, 182, 133);
+border-radius: 10px;
+border-top: 5px solid #85c9c9;
+padding: 3px;
+float: none;
+text-align: center;
+}
+
+#output1
+{
+background: rgb(235, 182, 133);
+border-radius: 10px;
+border-top: 10px solid #85c9c9;
+padding: 10px;
+float: none;
+text-align: center;
+}
+
